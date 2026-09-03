@@ -79,6 +79,6 @@ This lab is educational and portfolio-focused. It is not legal advice, a complia
 
 [1] NIST, *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*, NIST AI 100-1 (January 2023), https://doi.org/10.6028/NIST.AI.100-1. NIST describes the AI RMF Core through Govern, Map, Measure, and Manage functions.
 
-## Publishing
+## Portfolio use
 
-This repository is prepared locally for Keenan to publish personally. See [PUBLISHING_KIT.md](PUBLISHING_KIT.md). No publishing action has been performed by Hermes.
+See [PUBLISHING_KIT.md](PUBLISHING_KIT.md) for the verified project description, skill tags, evidence order, and claim boundaries used when presenting this work.
